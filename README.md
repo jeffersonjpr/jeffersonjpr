@@ -1,18 +1,15 @@
-### Hi there 👋
+###  Hi there 👋
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true">
+Oi meu nome é Jefferson.
 
-<p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true"/>
-</p>
-
-
-## About
-
-<img align="right" width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true">Teste teste teste
-- Teste
-- Teste
-- Teste
-- Teste
-- Teste
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 _includes/module.html
 
@@ -38,4 +35,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true"/>
+</p>
+
 -->
