@@ -7,12 +7,14 @@
 - ⚡ Fun fact:
 
 ### Technologies I like
+<p align="center">
+<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px"/>
+<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="50px" height="50px"/>
+<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="50px" height="50px"/>
+<img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="50px" height="50px"/>
+<img src="https://www.archlinux.org/logos/archlinux-icon-crystal-64.svg" width="50px" height="50px"/>
 
-[<img align="Center" alt="C" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/37222f76792b1ea8dabebb4e029d5c7e45ec7c5c/icons/c.svg" />][jeffersonjpr]
-[<img align="center" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][jeffersonjpr]
-[<img align="center" alt="Java" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/37222f76792b1ea8dabebb4e029d5c7e45ec7c5c/icons/java.svg" />][jeffersonjpr]
-[<img align="center" alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/37222f76792b1ea8dabebb4e029d5c7e45ec7c5c/icons/atom.svg" />][jeffersonjpr]
-
+</p>
 
 
 [jeffersonjpr]: https://github.com/jeffersonjpr
