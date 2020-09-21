@@ -17,12 +17,13 @@
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="50px" height="50px"/>
 
 </p>
+<br>
 
 ### Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjpr&layout=compact&langs_count=8&theme=chartreuse-dark" height="200px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=jeffersonjpr&theme=chartreuse-dark" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjpr&layout=compact&langs_count=8&theme=chartreuse-dark" height="130px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jeffersonjpr&theme=chartreuse-dark" height="130px"/>
 </p>
 
 [jeffersonjpr]: https://github.com/jeffersonjpr
