@@ -2,17 +2,19 @@
 <img align="right" width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true">
 
 - 🔭 I’m currently working on: My profile readme.md
-- 🌱 I’m currently learning: Markdown and English
+- 🌱 I’m currently learning: Markdown, English, Compilers, UML.
 - 💬 Ask me about: Computer Science and Games
 - ⚡ Fun fact:
 
 ### Technologies I like
 <p align="center">
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px"/>
-<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="50px" height="50px"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="50px" height="50px"/>
-<img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="50px" height="50px"/>
 <img src="https://www.archlinux.org/logos/archlinux-icon-crystal-64.svg" width="50px" height="50px"/>
+<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="50px" height="50px"/>
+<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="50px" height="50px"/>
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="50px" height="50px"/>
+<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px"/>
+<img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="50px" height="50px"/>
+<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="50px" height="50px"/>
 
 </p>
 
