@@ -18,6 +18,12 @@
 
 </p>
 
+### Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjpr&layout=compact&langs_count=8&theme=chartreuse-dark" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jeffersonjpr&theme=chartreuse-dark" height="200px"/>
+</p>
 
 [jeffersonjpr]: https://github.com/jeffersonjpr
 
@@ -40,4 +46,5 @@ Here are some ideas to get you started:
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true"/>
 </p>
 
+wakatime
 -->
