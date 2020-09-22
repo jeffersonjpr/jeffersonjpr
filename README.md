@@ -26,8 +26,8 @@
 ### Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjpr&layout=compact&langs_count=8&theme=chartreuse-dark" height="150px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=jeffersonjpr&theme=chartreuse-dark" height="150px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjpr&layout=compact&langs_count=8&theme=chartreuse-dark" height="170px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jeffersonjpr&theme=chartreuse-dark" height="170px"/>
 </p>
 
 [jeffersonjpr]: https://github.com/jeffersonjpr
