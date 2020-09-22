@@ -28,7 +28,7 @@
 
 <a href="https://github.com/jeffersonjpr">
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jeffersonjpr&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jeffersonjpr&theme=onedark" width="770px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjpr&layout=compact&langs_count=8&theme=chartreuse-dark" height="175px"/>
     <img src="https://github-readme-stats.vercel.app/api?username=jeffersonjpr&theme=chartreuse-dark" height="175px"/>
   </p>
