@@ -1,8 +1,9 @@
 
 ### Jefferson Michael
 <p>
-<img align="right" width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true">
-
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&redirect=true">
+    <img align="right" width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true">
+  </a>
 
 - 🔭 I’m currently working on: My profile readme.md
 - 🌱 I’m currently learning: Markdown, English, Compilers, UML.
@@ -25,10 +26,13 @@
 
 ### Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjpr&layout=compact&langs_count=8&theme=chartreuse-dark" height="175px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=jeffersonjpr&theme=chartreuse-dark" height="175px"/>
-</p>
+<a href="https://github.com/jeffersonjpr">
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=jeffersonjpr&theme=onedark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjpr&layout=compact&langs_count=8&theme=chartreuse-dark" height="175px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jeffersonjpr&theme=chartreuse-dark" height="175px"/>
+  </p>
+</a>
 
 [jeffersonjpr]: https://github.com/jeffersonjpr
 
