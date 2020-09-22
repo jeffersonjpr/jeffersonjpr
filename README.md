@@ -1,10 +1,14 @@
+
 ### Jefferson Michael
-<img align="right" width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true">
+<p>
+<img align="right" width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true">
+
 
 - 🔭 I’m currently working on: My profile readme.md
 - 🌱 I’m currently learning: Markdown, English, Compilers, UML.
 - 💬 Ask me about: Computer Science and Games
 - ⚡ Fun fact:
+</p>
 
 ### Technologies I like
 <p align="center">
@@ -22,8 +26,8 @@
 ### Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjpr&layout=compact&langs_count=8&theme=chartreuse-dark" height="130px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=jeffersonjpr&theme=chartreuse-dark" height="130px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjpr&layout=compact&langs_count=8&theme=chartreuse-dark" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jeffersonjpr&theme=chartreuse-dark" height="200px"/>
 </p>
 
 [jeffersonjpr]: https://github.com/jeffersonjpr
