@@ -13,14 +13,13 @@
 
 ### Technologies I like
 <p align="center">
-<img src="https://www.archlinux.org/logos/archlinux-icon-crystal-64.svg" width="50px" height="50px"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="50px" height="50px"/>
-<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="50px" height="50px"/>
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="50px" height="50px"/>
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px"/>
-<img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="50px" height="50px"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="50px" height="50px"/>
-
+<a href="https://www.archlinux.org/"><img src="https://www.archlinux.org/logos/archlinux-icon-crystal-64.svg" width="50px" height="50px"/></a>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="50px" height="50px"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="50px" height="50px"/></a>
+<a href="https://www.python.org/"><img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="50px" height="50px"/></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px"/> </a>
+<a href="https://atom.io/"><img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="50px" height="50px"/></a>
+<a href="https://github.com/jeffersonjpr"><img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="50px" height="50px"/></a>
 </p>
 <br>
 
