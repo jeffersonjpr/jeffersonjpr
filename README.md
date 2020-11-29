@@ -5,8 +5,8 @@
     <img align="right" width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true">
   </a>
 
-- 🔭 I’m currently working on: My profile readme.md
-- 🌱 I’m currently learning: Markdown, English, Compilers, UML.
+- 🔭 I’m currently working on:
+- 🌱 I’m currently learning: Neural Networks (MLP).
 - 💬 Ask me about: Computer Science and Games
 - ⚡ Fun fact:
 </p>
