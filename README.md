@@ -20,7 +20,7 @@
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px"/> </a>
 <a href="https://atom.io/"><img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="50px" height="50px"/></a>
 <a href="https://github.com/jeffersonjpr"><img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="50px" height="50px"/></a>
-<a href="https://www.anaconda.com/"><img src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png" width="50px" height="50px"/></a>
+<a href="https://www.anaconda.com/"><img src="https://www.clipartmax.com/png/middle/234-2342873_anaconda-on-twitter-anaconda-python.png" width="50px" height="50px"/></a>
 </p>
 <br>
 
