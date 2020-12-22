@@ -21,6 +21,7 @@
 <a href="https://atom.io/"><img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="50px" height="50px"/></a>
 <a href="https://github.com/jeffersonjpr"><img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="50px" height="50px"/></a>
 <a href="https://www.anaconda.com/"><img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" width="50px" height="50px"/></a>
+<a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50px" height="50px"/></a>
 </p>
 <br>
 
