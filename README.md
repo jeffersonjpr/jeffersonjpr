@@ -17,7 +17,7 @@
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px" height="50px"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px" height="50px"/></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px"/></a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px"/> </a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="50px" height="50px"/> </a>
 <a href="https://atom.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="50px" height="50px"/></a>
 <a href="https://github.com/jeffersonjpr"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50px" height="50px"/></a>
 <a href="https://www.anaconda.com/"><img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" width="50px" height="50px"/></a>
