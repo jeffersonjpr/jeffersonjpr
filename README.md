@@ -16,8 +16,8 @@
 <a href="https://www.archlinux.org/"><img src="https://www.archlinux.org/logos/archlinux-icon-crystal-64.svg" width="50px" height="50px "/></a>
 <a href="https://joplinapp.org/"><img src="https://upload.wikimedia.org/wikipedia/en/0/08/Joplin-icon.svg" width="50px" height="50px"/> </a>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px" height="50px"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px" height="50px"/></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px" height="50px"/></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="50px" height="50px"/> </a>
 <a href="https://atom.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="50px" height="50px"/></a>
 <a href="https://github.com/jeffersonjpr"><img src="github.svg" width="50px" height="50px"/></a>
