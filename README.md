@@ -11,7 +11,7 @@
 - ⚡ Fun fact:
 </p>
 
-### Technologies I like
+### Languages and Tools I like
 <p align="center">
 <a href="https://www.archlinux.org/"><img src="https://www.archlinux.org/logos/archlinux-icon-crystal-64.svg" width="50px" height="50px "/></a>
 <a href="https://joplinapp.org/"><img src="https://upload.wikimedia.org/wikipedia/en/0/08/Joplin-icon.svg" width="50px" height="50px"/> </a>
