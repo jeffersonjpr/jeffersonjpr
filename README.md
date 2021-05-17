@@ -6,7 +6,7 @@
   </a>
 
 - 🔭 I’m currently working on: Iris Data Set
-- 🌱 I’m currently learning: Neural Networks (Keras), Flutter, Análise e Projetos de Algoritimos, Redes.
+- 🌱 I’m currently learning: Neural Networks (Keras), Flutter, Análise e Projetos de Algoritimos.
 - 💬 Ask me about: Computer Science and Games
 - ⚡ Fun fact:
 </p>
