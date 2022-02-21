@@ -6,7 +6,7 @@
   </a>
 
 - 🔭 I’m currently working on: Improving my skills
-- 🌱 I’m currently learning: SQK
+- 🌱 I’m currently learning: SQL
 - 💬 Ask me about: Computer Science and Games
 - ⚡ Fun fact: I had a broken arm once (dominant). When that happened, I was playing Gunz (The duel) like a crazy, I kept playing but needed to switch the mouse side. The "fun" part is that I don't even remember needing a time to adapt or something, maybe that happened because I was yong. Never again I had the same hability to use my non dominat arm.
 </p>
