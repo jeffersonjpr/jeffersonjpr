@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I had a broken arm once (dominant). When that happened, I was playing Gunz (The duel) like a crazy, I kept playing but needed to switch the mouse side. The "fun" part is that I don't even remember needing a time to adapt or something, maybe that happened because I was yong. Never again I had the same hability to use my non dominat arm.
 </p>
 
-### Languages and Tools I like
+### Languages and Tools
 <p align="center">
 <a href="https://www.archlinux.org/"><img src="https://www.archlinux.org/logos/archlinux-icon-crystal-64.svg" width="50px" height="50px "/></a>
 <a href="https://joplinapp.org/"><img src="https://upload.wikimedia.org/wikipedia/en/0/08/Joplin-icon.svg" width="50px" height="50px"/> </a>
