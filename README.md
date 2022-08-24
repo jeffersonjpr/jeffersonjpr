@@ -1,5 +1,10 @@
 
 ### Jefferson Michael
+
+<p align="center">
+  <img  src="https://i.imgur.com/FCUwWiH.gif"/>
+</p>
+
 <p>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&redirect=true">
     <img align="right" width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true">
