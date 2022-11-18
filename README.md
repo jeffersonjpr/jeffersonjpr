@@ -1,9 +1,6 @@
 
 ### Jefferson Michael
-
-<p align="center">
-  <img  src="https://i.imgur.com/FCUwWiH.gif"/>
-</p>
+[![@jeffersonjpr's Holopin board](https://holopin.me/jeffersonjpr)](https://holopin.io/@jeffersonjpr)
 
 <p>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&redirect=true">
