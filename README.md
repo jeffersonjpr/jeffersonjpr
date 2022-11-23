@@ -2,15 +2,9 @@
 ### Jefferson Michael
 [![@jeffersonjpr's Holopin board](https://holopin.me/jeffersonjpr)](https://holopin.io/@jeffersonjpr)
 
-<p>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&redirect=true">
-    <img align="right" width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=jeffersonjpr&cover_image=true">
-  </a>
-
 - 🔭 I’m currently working on: DevHops
 - 🌱 I’m currently learning: Backend development
 - 💬 Ask me about: Computer Science and Games
-</p>
 
 ### Languages and Tools
 <p align="center">
