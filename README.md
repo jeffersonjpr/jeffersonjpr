@@ -1,12 +1,13 @@
 
-### Jefferson Michael
+## Jefferson Michael
 [![@jeffersonjpr's Holopin board](https://holopin.me/jeffersonjpr)](https://holopin.io/@jeffersonjpr)
 
 - 🔭 I’m currently working on: Nacional Negócios e Cobranças
 - 🌱 I’m currently learning: FrontEnd development (HTML, CSS and Javascript)
 - 💬 Ask me about: Computer Science and Games
 
-### Languages and Tools
+## Languages and Tools
+### Back-end
 <p align="center">
     <a href="https://www.archlinux.org/"><img src="https://www.archlinux.org/logos/archlinux-icon-crystal-64.svg" width="50px" height="50px "/></a>
     <a href="https://joplinapp.org/"><img src="https://upload.wikimedia.org/wikipedia/en/0/08/Joplin-icon.svg" width="50px" height="50px"/> </a>
@@ -23,10 +24,11 @@
     <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50px" height="50px"/></a>
     <a href="https://keras.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50px" height="50px"/></a>
     <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" height="50px"/></a>
+### Front-end
 </p>
 <br>
 
-### Stats
+## Stats
 
 <a href="https://github.com/jeffersonjpr">
   <p align="center">
