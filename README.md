@@ -17,7 +17,7 @@
     <a href="https://en.wikipedia.org/wiki/PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" height="50px"/> </a>
     <a href="https://atom.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="50px" height="50px"/></a>
     <a href="https://github.com/jeffersonjpr"><img src="github.svg" width="50px" height="50px"/></a>
-    <a href="https://www.anaconda.com/"><img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" width="50px" height="50px"/></a>
+    <a href="https://www.anaconda.com/"><img src="https://anaconda.org/static/img/anaconda-symbol.svg" width="50px" height="50px"/></a>
     <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50px" height="50px"/></a>
     <a href="https://stackoverflow.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="50px" height="50px"/></a>
     <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50px" height="50px"/></a>
