@@ -30,9 +30,9 @@
 
 <a href="https://github.com/jeffersonjpr">
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jeffersonjpr&theme=juicyfresh&no-bg=true&column=7" width="99%"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeffersonjpr&layout=compact&langs_count=8&theme=monokai&bg_color=0D1117" width="44.00%"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeffersonjpr&theme=monokai&bg_color=0D1117"  width="55.25%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jeffersonjpr&theme=juicyfresh&no-bg=true&column=7" height="180em"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeffersonjpr&layout=compact&langs_count=8&theme=monokai&bg_color=0D1117" height="180em"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeffersonjpr&theme=monokai&bg_color=0D1117"  height="180em"/>
   </p>
 </a>
 
