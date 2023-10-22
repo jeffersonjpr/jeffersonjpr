@@ -2,8 +2,8 @@
 ## Jefferson Michael
 [![@jeffersonjpr's Holopin board](https://holopin.me/jeffersonjpr)](https://holopin.io/@jeffersonjpr)
 
-- 🔭 I’m currently working on: Nacional Negócios e Cobranças
-- 🌱 I’m currently learning: FrontEnd development (HTML, CSS and Javascript)
+- 🔭 I’m currently working on: Scheffer Logística e Automação
+- 🌱 I’m currently learning: Advanced Topics in Relational Databases
 - 💬 Ask me about: Computer Science and Games
 
 ## Languages and Tools
