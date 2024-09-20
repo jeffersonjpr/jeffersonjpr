@@ -9,7 +9,7 @@
 ## Languages and Tools
 <p align="center">
     <a href="https://www.archlinux.org/"><img src="https://www.archlinux.org/logos/archlinux-icon-crystal-64.svg" width="50px" height="50px "/></a>
-    <a href="https://joplinapp.org/"><img src="https://upload.wikimedia.org/wikipedia/en/0/08/Joplin-icon.svg" width="50px" height="50px"/> </a>
+    <a href="https://obsidian.md/"><img src="obsidian.svg" width="50px" height="50px"/> </a>
     <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px"/></a>
     <a href="https://atom.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="50px" height="50px"/></a>
     <a href="https://github.com/jeffersonjpr"><img src="github.svg" width="50px" height="50px"/></a>
