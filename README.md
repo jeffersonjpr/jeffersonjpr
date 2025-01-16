@@ -2,10 +2,6 @@
 ## Jefferson Michael
 [![@jeffersonjpr's Holopin board](https://holopin.me/jeffersonjpr)](https://holopin.io/@jeffersonjpr)
 
-- 🔭 I’m currently working on: Scheffer Logística e Automação
-- 🌱 I’m currently learning: Advanced Topics in Relational Databases
-- 💬 Ask me about: Computer Science and Games
-
 ## Languages and Tools
 <p align="center">
     <a href="https://www.archlinux.org/"><img src="https://www.archlinux.org/logos/archlinux-icon-crystal-64.svg" width="50px" height="50px "/></a>
