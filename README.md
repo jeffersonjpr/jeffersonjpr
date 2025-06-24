@@ -1,5 +1,6 @@
-
 ## Jefferson Michael
+[![Jefferson Michael](https://custom-icon-badges.demolab.com/badge/Jefferson%20Michael-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jefferson-michael-307443142/)
+
 [![@jeffersonjpr's Holopin board](https://holopin.me/jeffersonjpr)](https://holopin.io/@jeffersonjpr)
 
 ## Languages and Tools
