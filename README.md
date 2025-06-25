@@ -16,7 +16,6 @@
     <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50px" height="50px"/></a>
     <a href="https://keras.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50px" height="50px"/></a>
 </p>
-<br>
 
 ## Stats
 
